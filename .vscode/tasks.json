@@ -1,0 +1,7 @@
+{
+    "version": "0.1.0",
+    "command": "g++",
+    "isShellCommand": true,
+    "args": ["-g","-std=c++11","${workspaceRoot}/Part2/week1/nrdfs.cpp"],
+    "showOutput": "always"
+}
